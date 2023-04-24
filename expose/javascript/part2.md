@@ -62,7 +62,7 @@
     
 15. `==` is a non-strict check, it will perform type conversions to make the two arguments the same type; `===` is a strict equality check, where it compare values directly without conversion.
 
-16. See [part2-question16.js]().
+16. See [part2-question16.js](https://github.com/Jameszzyyyyy/sp23-cse110-lab4/blob/main/expose/javascript/part2-question16.js).
 
 17. 
 
