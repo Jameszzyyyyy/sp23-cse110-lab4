@@ -68,7 +68,7 @@
 
 18. See [part2-question18.js](https://github.com/Jameszzyyyyy/sp23-cse110-lab4/blob/main/expose/javascript/part2-question18.js).
 
-19.
+19. the output will be `1, 4, 3, 2`
 
 
 
