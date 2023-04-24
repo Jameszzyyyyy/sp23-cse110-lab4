@@ -1,4 +1,4 @@
-#Part1 Solution#
+# Part1 Solution
 
 1. line 9 will print "values added: 20"
 2. line 13 will print "final result: 20"
