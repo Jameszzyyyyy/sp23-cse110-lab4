@@ -64,7 +64,11 @@
 
 16. See [part2-question16.js](https://github.com/Jameszzyyyyy/sp23-cse110-lab4/blob/main/expose/javascript/part2-question16.js).
 
-17. 
+17. The result will be `[2,4,6]`, the `doSomething` function is one which takes a number and return the twice of that number, so when we pass `[1,2,3]` and `doSomething` in to the function `modifyArray`, we will make every single value in the array twice it is now, so it will result `[2,4,6]`.
+
+18. See [part2-question18.js](https://github.com/Jameszzyyyyy/sp23-cse110-lab4/blob/main/expose/javascript/part2-question18.js).
+
+19.
 
 
 
